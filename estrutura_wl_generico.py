@@ -7,7 +7,7 @@
 # Para o correto funcionamento deste script, os arquivos "hosts",
 # "pacotes" e "properties" devem acompanha-lo.
 
-# MELHORIAS:
+# MELHORIAS: 
 # - METODO CRIA_MACHINE
 # - CONTROLE DE ERROS (REQUESTS)
 # - CONTROLE DE VERSOES (GIT)
